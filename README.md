@@ -38,7 +38,7 @@ The analysis revealed a high R-squared score of 0.954, indicating a strong model
 This project not only provides a deep analytical view of the leading causes of death in New York City but also showcases the application of machine learning in public health. The insights gained can help in strategic planning and policy-making to address public health concerns.
 
 ## Author
-- [Your Name] - An adept data scientist with a keen interest in leveraging machine learning to solve real-world problems.
+- Krish Bedi
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
